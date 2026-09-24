@@ -1,4 +1,4 @@
-const API_BASE = "http://10.204.122.151:4000/api";
+const API_BASE = "https://eventribe-backend-v63h.onrender.com/api";
 
 const state = {
   city: localStorage.getItem("eventribe_city") || "All Cities",
